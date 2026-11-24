@@ -40,6 +40,10 @@ This project investigates how an RLC circuit achieves frequency selectivity thro
 
 We use a simplified series RLC circuit governed by Kirchhoff's Voltage Law.
 
+<p align="center">
+  <img src="./LRC_circuit.png" alt="Series RLC circuit diagram" width="650">
+</p>
+
 [View or download the LRC circuit PDF](./LRC_circuit.pdf)
 
 The differential equation is:
